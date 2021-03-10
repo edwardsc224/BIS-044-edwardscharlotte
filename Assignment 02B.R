@@ -21,3 +21,7 @@ names(theDF)<-c("Popularity", "Team Strength", "Sport")
 View(theDF)
 
 print(mean(Team_Strength))
+
+
+rm(list=ls(all=TRUE))
+cat("\014")
