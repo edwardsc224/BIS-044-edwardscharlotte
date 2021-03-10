@@ -43,3 +43,6 @@ vignettes/*.pdf
 *.xlxs
 *.csv
 *.RData
+
+# Large files
+PRESIDENT_precinct_primary.csv
