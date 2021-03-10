@@ -3,5 +3,5 @@
 # from 25 through 1 (in that order) in the console, with each value being 
 # printed on a new line.
 for (i in 25:1) 
-{cat(25:1,sep="\n")}
+{cat((25:1)^2,sep="\n")}
 
